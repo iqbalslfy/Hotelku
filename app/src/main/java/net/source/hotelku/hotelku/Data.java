@@ -5,4 +5,6 @@ package net.source.hotelku.hotelku;
  */
 
 public class Data {
+
+
 }

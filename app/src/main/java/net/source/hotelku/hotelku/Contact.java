@@ -25,6 +25,8 @@ public class Contact extends android.support.v4.app.Fragment {
         roundedBitmapDrawable.setCornerRadius(15);
         imageView.setImageDrawable(roundedBitmapDrawable);
 
+
+
         return view;
     }
 }
